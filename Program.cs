@@ -22,5 +22,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.MapEndpointsEstudante();
+app.MapEndpointsConteudo();
+app.MapEndpointsModulo();
+app.MapEndpointsTurma();
 
 app.Run();
