@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gs2DotNet.props" />
+</Project>

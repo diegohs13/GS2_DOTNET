@@ -1,0 +1,6 @@
+@Gs2DotNet_HostAddress = http://localhost:5243
+
+GET {{Gs2DotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
