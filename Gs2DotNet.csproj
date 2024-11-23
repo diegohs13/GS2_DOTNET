@@ -19,6 +19,7 @@
     <PackageReference Include="Oracle.EntityFrameworkCore" Version="8.23.60" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="7.0.0" />
+    <PackageReference Include="xunit" Version="2.9.2" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +28,7 @@
     <Compile Remove="Models\ProgressoEstudante.cs" />
     <Compile Remove="Models\Avaliacao.cs" />
     <Compile Remove="Models\Atividade.cs" />
+    <Compile Remove="Gs2DotNet.Tests\UnitTest1.cs" />
   </ItemGroup>
 
   <ItemGroup>
