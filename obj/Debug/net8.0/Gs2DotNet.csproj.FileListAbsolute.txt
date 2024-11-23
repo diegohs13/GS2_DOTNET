@@ -124,3 +124,4 @@ C:\Users\Diego\Desktop\gs2dotnet\Gs2DotNet\bin\Debug\net8.0\runtimes\win\lib\net
 C:\Users\Diego\Desktop\gs2dotnet\Gs2DotNet\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\Diego\Desktop\gs2dotnet\Gs2DotNet\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\Diego\Desktop\gs2dotnet\Gs2DotNet\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Diego\Desktop\gs2dotnet\Gs2DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

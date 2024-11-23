@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gs2DotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a7d89dbdec14b69905cd46389a50e44745c9c0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f058af4a4f6538a4a7542e517713d23330b95f4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gs2DotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gs2DotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
