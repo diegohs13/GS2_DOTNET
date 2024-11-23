@@ -1,3 +1,5 @@
+#### Júlia de Fatima Queiroz - RM551130
+
 # Aplicativo de Educação Energética
 
 Embora o consumo consciente de energia e o uso de fontes renováveis sejam cruciais para o futuro do planeta, esses temas ainda recebem pouca atenção no currículo escolar. Muitos estudantes carecem de informações acessíveis e práticas sobre como a energia é gerada, seu impacto ambiental e como adotar hábitos mais eficientes no dia a dia.
